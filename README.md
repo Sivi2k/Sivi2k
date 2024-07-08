@@ -1,6 +1,5 @@
 ## Hi there 👋
-<i src="https://giphy.com/embed/GRPy8MKag9U1U88hzY" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></i><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY"></a></p>
-<!--
+<img src="[https://giphy.com/embed/GRPy8MKag9U1U88hzY](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk5YWkwOGxkaHVtNG85dXhzZTkyYmtkNjI2NjkyZmoweDJhamRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.webp)" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 **Sivi2k/Sivi2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
